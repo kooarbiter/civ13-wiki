@@ -98,3 +98,14 @@ Section of Nomads_World project (1/4)
 Based off of all of Africa: Desert, Savannah, Jungle, Savannah.
 
 Section of Nomads_World project (2/4)
+
+## North America
+
+
+
+A map recreating the experience of the northern america continent, the coldness of canada, the vastness of the usa and the heat of mexico.
+
+Sections of the map include the frozen hellscape of Canada, the temperate main body of the USA, and the more arid areas of Mexico, along with a small archipelago representing Hawaii.
+
+Section of Nomads_World project (3/4)
+
